@@ -10,7 +10,5 @@
 <a href="https://instagram.com/azvadennys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" azvadennys" height="30" width="40" /></a>
  <a href="https://wa.me/6282175831680?text=I%20Get%20Your%20Contact%20From%20Github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" azvadennys" height="30" width="40" /></a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azvadennys&show_icons=true&locale=en&layout=compact" alt="azvadennys" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azvadennys&show_icons=true&locale=en" alt="azvadennys" /></p>
