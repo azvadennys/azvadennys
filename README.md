@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [azvadennys.vercel.app](azvadennys.vercel.app)
 
-- 💬 Ask me about **Laravel, Artificial Intelegent**
+- 💬 Ask me about **Laravel, Artificial Intelegent, Back End**
 
 - 📫 How to reach me **azvadenis@gmail.com**
 
